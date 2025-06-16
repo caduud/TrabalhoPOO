@@ -13,5 +13,6 @@ public class Main {
     public static void main(String[] args) {
         MenuApp.lerPrimeiroNome();
         MenuApp.menuMostrar();
+        System.out.println();
     }
 }
